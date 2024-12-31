@@ -1,0 +1,21 @@
+# ERC-20 Token Contract
+
+Este es un contrato inteligente ERC-20 para la creación de un token en la blockchain Ethereum. En este repositorio, encontrarás el código completo para desplegar tu propio token ERC-20.
+
+## Requisitos
+
+- [Node.js](https://nodejs.org/) (se recomienda la versión 16 o superior).
+- [Truffle](https://www.trufflesuite.com/truffle) o [Hardhat](https://hardhat.org/) (herramientas para desarrollo de contratos inteligentes).
+- [MetaMask](https://metamask.io/) (para interactuar con la red Ethereum).
+- [Ganache](https://www.trufflesuite.com/ganache) (para redes de prueba locales).
+- [Infura](https://infura.io/) o [Alchemy](https://www.alchemy.com/) (si deseas interactuar con redes públicas como Ethereum mainnet o testnets).
+
+## Instalación y Despliegue
+
+### 1. Clona este repositorio
+
+Primero, clona este repositorio a tu máquina local:
+
+```bash
+git clone https://github.com/TuUsuario/TuRepositorio.git
+
